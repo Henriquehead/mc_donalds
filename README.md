@@ -24,4 +24,9 @@ bun dev
     npx prisma format => Formata o documento prisma
 
     npx prisma migrate dev => inclui o arquivo migrate
+
+    npx shadcn@2.3.0
+
+    npx shadcn@2.3.0 add button
+
 ```
