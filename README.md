@@ -29,4 +29,8 @@ bun dev
 
     npx shadcn@2.3.0 add button
 
+    ctrl + p => buca arquivos no vs code
+
+    ctrl + . => corrige
+
 ```
